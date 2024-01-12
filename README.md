@@ -9,11 +9,11 @@
 
 ## 레벨에 따른 난이도와 다양한 고양이 종류
 
-<img src = "https://github.com/Lee-Kyung-Sup/CatvsDog/assets/120997897/2e1b19de-d95c-4bdd-91c0-e987c5a243e7" width = "300" height = "400"/)
+<img src = "https://github.com/Lee-Kyung-Sup/CatvsDog/assets/120997897/2e1b19de-d95c-4bdd-91c0-e987c5a243e7" width = "300" height = "400"/>
 
 ---
 
 ## 막는데에 실패했을 시 Replay
 
-<img src = "https://github.com/Lee-Kyung-Sup/CatvsDog/assets/120997897/678a8825-3535-4e80-bd88-f975890df804" width = "300" height = "400"/)
+<img src = "https://github.com/Lee-Kyung-Sup/CatvsDog/assets/120997897/678a8825-3535-4e80-bd88-f975890df804" width = "300" height = "400"/>
 
