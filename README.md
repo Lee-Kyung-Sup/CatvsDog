@@ -1,6 +1,6 @@
 # 개가 다가오는 고양이한테 먹이를 던져서 막는 게임
 ---
-
+## 역할: 게임 구현
 ## 고양이한테 먹이 던지기
 
 <img src = "https://github.com/Lee-Kyung-Sup/CatvsDog/assets/120997897/defc503d-b922-4421-a394-f00a806c7381" width = "300" height = "400"/>
